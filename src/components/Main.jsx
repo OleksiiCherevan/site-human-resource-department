@@ -4,8 +4,6 @@ import "react-awesome-slider/dist/styles.css";
 
 import { AiOutlineArrowDown } from "react-icons/ai";
 
-import OFFICE2 from '../assets/images/office2.jpeg';
-
 import OFFICE from "./../assets/images/office.jpeg";
 import Button from "./Button";
 import Managementing from "./Managementing";
